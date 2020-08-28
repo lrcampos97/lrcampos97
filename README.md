@@ -15,6 +15,12 @@ Follow me:
 
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lrcampos97/count.svg" />
+</p>
+
+
 <!--
 **lrcampos97/lrcampos97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
