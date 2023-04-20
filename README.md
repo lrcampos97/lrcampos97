@@ -11,7 +11,6 @@ Software developer focused on **mobile**📱 and **desktop**🖥 applications. I
 Follow me:
 
 [![Linkedin](https://badgen.net/badge/Linkedin/luizfelipedarocha?icon=linkedin)](https://www.linkedin.com/in/luizfelipedarocha/)
-[![Instagram](https://badgen.net/badge/Instagram/_felipeluizz?icon=instagram)](https://www.instagram.com/_felipeluizz/)
 
 
 
