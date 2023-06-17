@@ -3,7 +3,9 @@
 ### I'm Luiz Felipe 👨🏽‍💻
 
 
-Software developer focused on **mobile**📱 and **desktop**🖥 applications. I'm bachelor degree in Analysis and Systems Development with a large knowledge of the software development process. I have professional experience with **Delphi**, **SQL**, **IONIC**, **PHP**, **TypeScript** and **Version control**. So, here you will find some code from open source projects and personal study projects. 
+Software developer graduated in Systems Analysis and Development with 8+ years of experience focused on **backend**, more specifically with **blockchain** and its latest technologies, also working with tools to the development of mobile and desktop applications. I'm proactive and communicative, with ease to solve problems.
+
+I have professional experience with **Node**, **React**, **Next**, **MongoDB**, **SQL**, **Delphi**, **PHP**, **TypeScript** and **Version control**. For the past years I've been working with blockchain and **web3** products, such as **Ethereum**, **solidity**, **smart contracts**, **NFTs**, **ERC Tokens**, **Bitcoin**, **Binance Smart Chain** and **Ledgers**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrcampos97&layout=compact&theme=dark)](https://github.com/lrcampos97/github-readme-stats)
 
