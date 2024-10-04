@@ -3,7 +3,7 @@
 ### I'm Luiz Felipe 👨🏽‍💻
 
 
-Software developer graduated in Systems Analysis and Development with 8+ years of experience focused on **backend**, more specifically with **blockchain** and its latest technologies, also working with tools to the development of mobile and desktop applications. I'm proactive and communicative, with ease to solve problems.
+Software developer graduated in Systems Analysis and Development with 9+ years of experience focused on **backend**, more specifically with **blockchain** and its latest technologies, also working with tools to the development of mobile and desktop applications. I'm proactive and communicative, with ease to solve problems.
 
 I have professional experience with **Node**, **React**, **Next**, **MongoDB**, **SQL**, **Delphi**, **PHP**, **TypeScript** and **Version control**. For the past years I've been working with blockchain and **web3** products, such as **Ethereum**, **solidity**, **smart contracts**, **NFTs**, **ERC Tokens**, **Bitcoin**, **Binance Smart Chain** and **Ledgers**.
 
