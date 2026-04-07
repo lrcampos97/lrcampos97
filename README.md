@@ -3,11 +3,11 @@
 ### I'm Luiz Felipe 👨🏽‍💻
 
 
-Software developer graduated in Systems Analysis and Development with 9+ years of experience focused on **backend**, more specifically with **blockchain** and its latest technologies, also working with tools to the development of mobile and desktop applications. I'm proactive and communicative, with ease to solve problems.
+Software Engineer with 10+ years of experience specializing in backend development and API design. Graduated in Systems Analysis and Development, with a strong focus on building scalable and reliable backend systems using modern technologies. 
 
-I have professional experience with **Node**, **React**, **Next**, **MongoDB**, **SQL**, **Delphi**, **PHP**, **TypeScript** and **Version control**. For the past years I've been working with blockchain and **web3** products, such as **Ethereum**, **solidity**, **smart contracts**, **NFTs**, **ERC Tokens**, **Bitcoin**, **Binance Smart Chain** and **Ledgers**.
+Experienced in designing and developing distributed systems, financial integrations, and high-volume data processing platforms. Skilled in working with cloud infrastructure, payment systems, and complex third-party integrations. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrcampos97&layout=compact&theme=dark)](https://github.com/lrcampos97/github-readme-stats)
+Proficient with Node.js, TypeScript, NestJS, React, Next.js, MongoDB, SQL, AWS and GCP, as well as CI/CD and infrastructure automation. I have also worked extensively with blockchain and Web3 technologies, including Ethereum, smart contracts, ERC tokens, Bitcoin, and Binance Smart Chain. Strong experience integrating external financial and payment platforms such as Stripe, Modulr, and Binance, as well as building robust APIs and backend services that power modern fintech and digital platforms.
 
 
 Follow me:
